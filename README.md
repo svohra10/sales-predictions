@@ -1,8 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35012841/README.md)
-# Sales-Predictions
-Item visibilty has a strong influence on item sales. 
-Majority of items on sale have a low visbility. 
-Varying displays can help increase sales of low visibilty items. 
+
 # Sales Predictions
 
 Predicting retail item sales by outlet with scikit-learn. The project cleans a store sales dataset, explores what relates to sales, and compares a baseline, a linear regression, and a decision tree on held-out data.
